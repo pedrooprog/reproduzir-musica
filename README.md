@@ -1,2 +1,2 @@
-# reproduzir musica
- reproduzir musica com python
+# reproduzir música
+ reproduzir música com python
